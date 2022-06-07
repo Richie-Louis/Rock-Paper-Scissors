@@ -1,4 +1,4 @@
-﻿// Convert this to Windows Forms
+﻿// Convert this to Windows Forms if possible or do it in C#
 
 #include <iostream>
 #include <stdlib.h>
